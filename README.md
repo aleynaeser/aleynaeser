@@ -1,5 +1,6 @@
 <h1 align="center">Hi ✨, I'm Aleyna ESER</h1>
 <h3 align="center">A MIS Student</h3>
+<a align="center href="https://www.aleynaeser.site"> www.aleynaeser.site </a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,4 +25,3 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aleyna-eser-818043185/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.aleynaeser.site"> www.aleynaeser.site </a>
