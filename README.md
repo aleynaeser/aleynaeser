@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✨, I'm Aleyna ESER</h1>
 <h3 align="center">A MIS Student</h3>
-<a align="center href="https://www.aleynaeser.site"> www.aleynaeser.site </a>
+<a align="center" href="https://www.aleynaeser.site"> www.aleynaeser.site </a>
 
 ### 🛠 &nbsp;Tech Stack
 
