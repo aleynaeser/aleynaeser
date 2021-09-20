@@ -1,6 +1,14 @@
 <h1 align="center">Hi ✨, I'm Aleyna</h1>
 <h3 align="center">A MIS Student</h3>
 
+### 👩🏻‍💻 &nbsp;About Me
+
+- 🔭 I’m currently learning mobile programming 😂
+- 👯 I’m looking to collaborate with other Flutter developer and mobile app programmers 👩🏻‍💻
+- 🤔 I’m looking for help with mobile programming
+- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning image processing 💫
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
