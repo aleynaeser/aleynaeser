@@ -1,5 +1,4 @@
 <h1 align="center">Hi ✨, I'm Aleyna</h1>
-<h3 align="center">A MIS Student</h3>
 
 ### 👩🏻‍💻 &nbsp;About Me
 
