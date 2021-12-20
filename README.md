@@ -20,13 +20,15 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Fişrebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
- 
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/aleynaesr">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aleynaesr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynaesr&layout=compact&theme=jolly"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=aleynaesr&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
