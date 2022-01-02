@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning mobile programming 😋
 - 👯 I’m looking to collaborate with other Flutter and Mobile Developers 👩🏻‍💻
 - 🤔 I’m looking for help with mobile programming 🥰
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning image processing 💫
+- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning image processing 💫
 
 
 ### 🛠 &nbsp;Tech Stack
