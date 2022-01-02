@@ -1,4 +1,5 @@
-<h1 align="center">Hi ✨, I'm Aleyna</h1>
+![image](https://user-images.githubusercontent.com/45822686/147888247-bf6908d1-55c4-4f91-b857-c8c087c44f62.png)
+ 
 
 ### 👩🏻‍💻 &nbsp;About Me
 
