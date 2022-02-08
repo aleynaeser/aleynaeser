@@ -11,6 +11,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAleynaesr&count_bg=%23151515&title_bg=%23FF7BD4&icon=flutter.svg&icon_color=%2302D8FF&title=hits&edge_flat=false"/></a>
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
