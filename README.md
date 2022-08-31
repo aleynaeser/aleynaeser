@@ -28,6 +28,9 @@
 
 ### 🐍 &nbsp;Snake eating my contribution graph
 
+![snake gif](https://github.com/aleynaesr/aleynaesr/blob/output/github-contribution-grid-snake.svg)
+ 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
