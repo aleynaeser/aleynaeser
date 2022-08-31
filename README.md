@@ -1,13 +1,5 @@
- ![upload]( https://github.com/Aleynaesr/aleynaesr/blob/main/header.png?raw=true)&nbsp;
- 
-
-### 👩🏻‍💻 &nbsp;About Me
-
-- 🔭 I’m currently learning mobile programming 😋
-- 👯 I’m looking to collaborate with other Flutter and Mobile Developers 👩🏻‍💻
-- 🤔 I’m looking for help with mobile programming 🥰
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning image processing 💫
-
+<h1 align="center">Hi 👋, I'm Aleyna ESER</h1>
+<h3 align="center">Mobile & Frontend Developer</h3>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,6 +25,8 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aleynaesr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+### 🐍 &nbsp;Snake eating my contribution graph
 
 ### 🤝🏻 &nbsp;Connect with Me
 
