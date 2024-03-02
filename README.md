@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aleyna ESER</h1>
+<h1 align="center">Hi there 👋, I'm Aleyna </h1>
 <h3 align="center">Software Developer</h3>
 
 ### 🛠 &nbsp;Tech Stack
@@ -23,4 +23,4 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/aleyna-eser-818043185/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </br> </br>
-<a href="https://www.aleynaeser.site"> www.aleynaeser.site </a>
+<a href="https://www.aleynaeser.tech"> www.aleynaeser.tech </a>
