@@ -81,16 +81,6 @@
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&color=3e3e3e">
 </samp>
 <br>
-<!-- Details -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Aleyna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aleynaeser&hide_title=true&hide_rank=true&show_icons=true&theme=github_dark_dimmed&border_radius=20" />
-        <br>
-    </p>
-</details>
 </p>
 
 <br>
@@ -114,6 +104,17 @@
 </a>
     </samp>
 </p>
+
+<!-- Details -->
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Aleyna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aleynaeser&hide_title=true&hide_rank=true&show_icons=true&theme=github_dark_dimmed&border_radius=20" />
+        <br>
+    </p>
+</details>
 
 <br>
 <br>
