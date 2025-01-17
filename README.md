@@ -93,16 +93,24 @@
       「 <strong> Repos </strong> 」
         <br>
      <br>
-      <a href="https://github.com/aleynaeser/budget-management-app" target="_blank">
+              <a href="https://github.com/aleynaeser/portfolio" target="_blank">
+<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=portfolio&theme=github_dark_dimmed"/>
+</a>
+              <a href="https://github.com/aleynaeser/flutter-ui-design-examples" target="_blank">
+<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=flutter-ui-design-examples&theme=github_dark_dimmed"/>
+</a>
+    </samp>
+</p>
+
+<p align="center">
+        <samp>
+          <a href="https://github.com/aleynaeser/budget-management-app" target="_blank">
 <img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=budget-management-app&theme=github_dark_dimmed"/>
 </a>
       <a href="https://github.com/aleynaeser/scopus-search-app" target="_blank">
 <img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=scopus-search-app&theme=github_dark_dimmed"/>
 </a>
-      <a href="https://github.com/aleynaeser/flutter-ui-design-examples" target="_blank">
-<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=flutter-ui-design-examples&theme=github_dark_dimmed"/>
-</a>
-    </samp>
+   </samp>
 </p>
 
 <!-- Details -->
