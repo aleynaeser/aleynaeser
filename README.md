@@ -94,10 +94,10 @@
         <br>
      <br>
               <a href="https://github.com/aleynaeser/portfolio" target="_blank">
-<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=portfolio&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=portfolio&theme=github_dark_dimmed"/>
 </a>
               <a href="https://github.com/aleynaeser/daily-news" target="_blank">
-<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=daily-news&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=daily-news&theme=github_dark_dimmed"/>
 </a>
     </samp>
 </p>
@@ -105,10 +105,10 @@
 <p align="center">
         <samp>
      <a href="https://github.com/aleynaeser/password-metric-app" target="_blank">
-<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=password-metric-app&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=password-metric-app&theme=github_dark_dimmed"/>
 </a>
           <a href="https://github.com/aleynaeser/budget-management-app" target="_blank">
-<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=budget-management-app&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=budget-management-app&theme=github_dark_dimmed"/>
 </a>
    </samp>
 </p>
@@ -116,10 +116,10 @@
 <p align="center">
         <samp>
      <a href="https://github.com/aleynaeser/flutter-ui-design-examples" target="_blank">
-<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=flutter-ui-design-examples&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=flutter-ui-design-examples&theme=github_dark_dimmed"/>
 </a>
           <a href="https://github.com/aleynaeser/reddit-clone" target="_blank">
-<img width='30%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=aleynaeser&repo=reddit-clone&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=reddit-clone&theme=github_dark_dimmed"/>
 </a>
    </samp>
 </p>
@@ -130,7 +130,7 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Aleyna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aleynaeser&hide_title=true&hide_rank=true&show_icons=true&theme=github_dark_dimmed&border_radius=20" />
+        <img alt="Aleyna's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=aleynaeser&hide_title=true&hide_rank=true&show_icons=true&theme=github_dark_dimmed&border_radius=20" />
         <br>
     </p>
 </details>
