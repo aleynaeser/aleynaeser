@@ -97,7 +97,7 @@
 <img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=portfolio&theme=github_dark_dimmed"/>
 </a>
               <a href="https://github.com/aleynaeser/daily-news" target="_blank">
-<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=daily-news&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=password-metric-app&theme=github_dark_dimmed"/>
 </a>
     </samp>
 </p>
@@ -105,10 +105,10 @@
 <p align="center">
         <samp>
      <a href="https://github.com/aleynaeser/password-metric-app" target="_blank">
-<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=password-metric-app&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=ai-fails&theme=github_dark_dimmed"/>
 </a>
           <a href="https://github.com/aleynaeser/budget-management-app" target="_blank">
-<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=budget-management-app&theme=github_dark_dimmed"/>
+<img width='30%' align="center"src="https://github-stats-extended.vercel.app/api/pin/?username=aleynaeser&repo=profuture-landing-page&theme=github_dark_dimmed"/>
 </a>
    </samp>
 </p>
